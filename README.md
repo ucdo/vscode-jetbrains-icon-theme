@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **New Maintainer**
+> This repository was transferred from `chadalen/vscode-jetbrains-icon-theme` and is now maintained by [@peaklabs-dev](https://github.com/peaklabs-dev). It will continue as the official successor to the original extension. Development of the next major version is underway on the `v3.x` branch - expect many improvements, new icons, and more.
+
 # JetBrains Icon Theme for VSCode
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/chadalen/vscode-jetbrains-icon-theme/issues)
